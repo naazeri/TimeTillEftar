@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ir.nazery.timetilleftar.MainActivity">
+    <item
+        android:id="@+id/action_setCity"
+        android:orderInCategory="1"
+        android:title="انتخاب شهر"
+        app:showAsAction="never" />
+    <!--<item-->
+        <!--android:id="@+id/action_rate"-->
+        <!--android:orderInCategory="2"-->
+        <!--android:title="نظر به برنامه"-->
+        <!--app:showAsAction="never" />-->
+    <item
+        android:id="@+id/action_aboutus"
+        android:orderInCategory="3"
+        android:title="درباره ما"
+        app:showAsAction="never" />
+</menu>

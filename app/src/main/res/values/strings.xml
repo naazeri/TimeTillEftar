@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">تا افطار</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_aboutus">درباره ما</string>
+    <string name="title1">زمان باقی مانده تا افطار امروز</string>
+    <string name="errorText">خطایی رخ داده است</string>
+    <string name="bazar404">برنامه کافه بازار نصب نیست</string>
+</resources>
