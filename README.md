@@ -5,6 +5,3 @@
 
 کافه بازار:
 https://cafebazaar.ir/app/ir.nazery.timetilleftar/?l=fa
-
-اول مارکت:
-http://avvalmarket.ir/frontpage/apps/ir.nazery.timetilleftar
